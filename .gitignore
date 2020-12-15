@@ -1,0 +1,9 @@
+node_modules/
+logs/
+data/
+temp/
+file_uploads/
+.vscode/
+.idea
+.history/
+pm2.config.json
